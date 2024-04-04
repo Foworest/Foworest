@@ -2,7 +2,20 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://64.media.tumblr.com/410ecaf3040e97629516282fefdc793f/tumblr_ocd94sM0j41sqkd33o1_400.gif"  />
+
+###
+
+<div align="left">
+  <a href="https://www.twitch.tv/foworest" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://discord.gg/Mepnk6pp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
 ###
 
@@ -18,17 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.twitch.tv/foworest" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.gg/Mepnk6pp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
 </div>
 
 ###
