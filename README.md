@@ -4,8 +4,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://64.media.tumblr.com/410ecaf3040e97629516282fefdc793f/tumblr_ocd94sM0j41sqkd33o1_400.gif"  />
-
 ###
 
 <div align="left">
