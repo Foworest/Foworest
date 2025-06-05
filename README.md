@@ -65,11 +65,14 @@
 <br clear="both">
 
 ###
-<div align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wvltqxkpc1gpknx30enhhbdzo)
-</div>
-###
 
+<div align="center">
+  
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wvltqxkpc1gpknx30enhhbdzo)
+
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/Foworest/Foworest/output/snake.svg" alt="Snake animation" />
 
