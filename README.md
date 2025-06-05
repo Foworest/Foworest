@@ -64,8 +64,7 @@
 </div>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wvltqxkpc1gpknx30enhhbdzo&width={400})
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wvltqxkpc1gpknx30enhhbdzo)
 ###
 
 <br clear="both">
