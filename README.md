@@ -64,9 +64,7 @@
 </div>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wvltqxkpc1gpknx30enhhbdzo)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wvltqxkpc1gpknx30enhhbdzo&count={5})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wvltqxkpc1gpknx30enhhbdzo&width={200})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wvltqxkpc1gpknx30enhhbdzo&width={400})
 
 ###
 
