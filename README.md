@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Forest and I'm from Poland, I don't know what to write here</h2>
-###
 
 <br clear="both">
 
@@ -47,16 +46,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
 
-###
-
 <div align="center">
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wvltqxkpc1gpknx30enhhbdzo)
 
 </div>
 
-###
 
 <img src="https://raw.githubusercontent.com/Foworest/Foworest/output/snake.svg" alt="Snake animation" />
-
-###
